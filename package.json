@@ -1,0 +1,23 @@
+{
+  "name": "djf-css-np-blog-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djftreinamentos/djf-css-np-blog-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djftreinamentos/djf-css-np-blog-list/issues"
+  },
+  "homepage": "https://github.com/djftreinamentos/djf-css-np-blog-list#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
