@@ -59,3 +59,27 @@
     text-align: justify;
     text-indent: 50px;
 }
+
+.post-footer{
+    margin-top: 10px;
+    text-align: right;
+}
+
+.btn-link{
+    border: none;
+    background-color: #2ca089;
+    color: #fff;
+    font-family: 'Roboto',sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-link::first-letter{
+    text-transform: capitalize;
+}
+
+.btn-link:hover{
+    background-color: #0e293c;
+}
